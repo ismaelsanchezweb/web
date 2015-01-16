@@ -13,7 +13,7 @@
 
 <h2>Empresa</h2>
 <?php
-
+//Declaro el heredoc
 $spanish =<<<SPANISH
 	<h3>Me llamo ismael</h3>
 	
